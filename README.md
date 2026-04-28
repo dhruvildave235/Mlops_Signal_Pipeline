@@ -1,8 +1,8 @@
 # 🚀 MLOps Batch Processing Pipeline (Technical Assessment)
-<p align="right">
+<!-- <p align="right">
   <img src="MLops.png" width="70"/>
-</p>
-
+</p> -->
+![Logo](Mlops.png)
 ## 📌 Overview
 
 This project implements a **minimal MLOps-style batch job** designed to demonstrate:
