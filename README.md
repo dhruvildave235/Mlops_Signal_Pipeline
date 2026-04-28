@@ -1,4 +1,7 @@
 # 🚀 MLOps Batch Processing Pipeline (Technical Assessment)
+<p align="right">
+  <img src="MLops.png" width="70"/>
+</p>
 
 ## 📌 Overview
 
